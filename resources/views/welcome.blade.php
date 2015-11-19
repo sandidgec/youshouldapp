@@ -46,7 +46,7 @@
                 integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ=="
                 crossorigin="anonymous"></script>
 
-        <title>You SHould App</title>
+        <title>You Should App</title>
     </head>
     <body>
         <div class="jumbotron">
